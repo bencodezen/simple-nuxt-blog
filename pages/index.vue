@@ -16,7 +16,9 @@
           <p>{{ post.description }}</p>
           <ul>
             <li v-for="tag in post.tags" :key="`${post.slug}-tag-${tag}`">
-              <button @click="setTag(tag)">{{ tag }}</button>
+              <a :href="`?tag=${tag}`" @click.prevent="setTag(tag)">{{
+                tag
+              }}</a>
             </li>
           </ul>
         </li>
