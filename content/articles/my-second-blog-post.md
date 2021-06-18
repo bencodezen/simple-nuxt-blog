@@ -2,7 +2,8 @@
 title: My Second Blog Post
 author: Tony Rogers
 date:
-  publish: 2021-06-15
+  publish: 2021-06-12
+description: Feta cheese slices fromage frais. Everyone loves cottage cheese emmental swiss cheese on toast cheddar cheese strings ricotta.
 tags:
   - react
   - mdx

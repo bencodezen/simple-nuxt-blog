@@ -2,7 +2,8 @@
 title: My First Blog Post
 author: Tony Rogers
 date:
-  publish: 2021-06-17
+  publish: 2021-06-10
+description: Queso red leicester edam. Who moved my cheese melted cheese stilton halloumi cut the cheese port-salut chalk and cheese jarlsberg.
 tags:
   - nuxt
   - content
